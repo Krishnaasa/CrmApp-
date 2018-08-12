@@ -1,0 +1,15 @@
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\DataContext.dll.config
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\DataContext.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\DataContext.pdb
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\EntityFramework.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\EntityFramework.xml
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\krishsa\source\repos\CrmApp\DataContext\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\krishsa\source\repos\CrmApp\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+C:\Users\krishsa\source\repos\CrmApp\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\krishsa\source\repos\CrmApp\DataContext\obj\Debug\DataContext.dll
+C:\Users\krishsa\source\repos\CrmApp\DataContext\obj\Debug\DataContext.pdb
